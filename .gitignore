@@ -1,5 +1,5 @@
 node_modules
 db/app.db
 
-.too-versions
+.tool-versions
 .env
