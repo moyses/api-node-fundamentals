@@ -1,5 +1,7 @@
 node_modules
 db/app.db
+db/test.db
 
 .tool-versions
 .env
+.env.test
